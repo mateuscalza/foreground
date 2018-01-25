@@ -1,0 +1,14 @@
+{
+  "name": "foreground",
+  "version": "1.0.0",
+  "description": "Bring services to the foreground.",
+  "main": "index.js",
+  "author": "Mateus Calza <cto@prix.tech>",
+  "license": "MIT",
+  "bin": {
+    "foreground": "./index.js"
+  },
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
